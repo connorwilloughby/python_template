@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "ms-python.python",
+        "sonarsource.sonarlint-vscode",
+        "donjayamanne.python-environment-manager"
+    ]
+}
