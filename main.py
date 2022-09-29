@@ -18,7 +18,7 @@ def intro_tqdm():
     print('Introduction to tqdm')
 
     # loop to run 0-9 with tqdm
-    for i in tqdm(range(3)):
+    for _ in tqdm(range(3)):
         sleep(3)
     
     print('CODE DONE')
