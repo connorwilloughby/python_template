@@ -70,8 +70,11 @@ We've put an example here of what needs to be added to your VS Code terminal in 
 ```console
 # this line creates a virtual environment
 py -m venv venv
+# in windows this line will allow the rest of the script to go ahead
+# if in powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 # this line starts the environment
-venv/scripts/activate
+.\/venv/scripts/activate
 # this line will update your pip (package installer) version 
 py -m pip install --upgrade pip
 # this line will install all dependencies
