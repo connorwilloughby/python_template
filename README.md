@@ -120,6 +120,8 @@ The one were using is maintained by github themselves (more info in docs below) 
 
 This is a really simple bit of code mostly for training. Its not very important.
 
+If you're wondering why I've included if name main here please watch this video [YouTube link](https://www.youtube.com/watch?v=g_wlZ9IhbTs&ab_channel=mCoding)
+
 # support 
 
 So we have created a few channels for python support the current best place for support is the Python Pros team chat. If you don't have access you can ask anyone in the [admin](##admins) section.
